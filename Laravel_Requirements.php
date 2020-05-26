@@ -87,6 +87,22 @@ $Laravel55Require=array(
     'xml'=>"True",
     'pdo'=>"True"
 );
+
+
+$Laravel54Require=array(
+    'phpversion'=>'PHP >= 5.6.4',
+    'bcmath'=>"Not Required",
+    'ctype'=>"Not Required",
+    'fileInfo'=>"Not Required",
+    'json'=>"Not Required",
+    'mbString'=>"True",
+    'openSSL'=>"True",
+    'tokenizer'=>"True",
+    'xml'=>"True",
+    'pdo'=>"True"
+);
+
+
 function CurrentConfig(){
     $phpversion=phpversion();
     $bcmath=extension_loaded('bcmath');
