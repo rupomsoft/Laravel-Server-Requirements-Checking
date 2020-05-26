@@ -17,4 +17,4 @@ The Laravel framework has a few system requirements. All of these requirements a
 
 
 ## Preview
-<img style="width: 100%;height: auto" src="https://github.com/rupomsoft/Laravel-Server-Requirements-Checking/blob/master/preview.png"/>
+<img style="width: 100%;height: auto" src="https://raw.githubusercontent.com/rupomsoft/Laravel-Server-Requirements-Checking/master/preview.PNG"/>
